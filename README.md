@@ -1,5 +1,5 @@
 ## Information
-```
+
 • File ini merupakan Database milik VolksCompany
 Yang dikembangkan oleh Ren.
 
@@ -8,7 +8,7 @@ reset data yang terjadi saat di run oleh server
 
 • File ini juga dapat digunakan untuk
 membackup cakupan data yang hilang dari server
-```
+
 
 ## Lisensi & Ketentuan 
 
@@ -29,3 +29,11 @@ File yang terkandung didalam ini.
 Semua ini resmi dan sudah disetujui oleh Pihak lain.
 
 © VolksCompagnie 2023
+## Creator Of Volks
+```
+1. Ren de-Kamikaze
+2. Vanzz Production
+3. Syarif Hidayatullah
+4. Piahn Ari Wijaya
+5. Talita Ridia
+```
