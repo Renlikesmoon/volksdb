@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="https://">
+
 ## Information
 
 • File ini merupakan Database milik VolksCompany
