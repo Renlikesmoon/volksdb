@@ -12,7 +12,7 @@ reset data yang terjadi saat di run oleh server
 membackup cakupan data yang hilang dari server
 
 
-## Lisensi & Ketentuan 
+## Ketentuan & Kebijakan Pengguna 
 
 Kami selaku Pihak Perusahaan melarang Keras
 Pencopy an hak cipta, Pemodifan Database, Serta
