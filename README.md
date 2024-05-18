@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/45/fd/79/45fd79710f44cac438dbd438bbbaeb43.gif">
+<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/45/fd/79/45fd79710f44cac438dbd438bbbaeb43.gif">
 
 ## Information
 
