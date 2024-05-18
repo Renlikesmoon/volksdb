@@ -1,5 +1,5 @@
 <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/45/fd/79/45fd79710f44cac438dbd438bbbaeb43.gif">
-
+<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
 ## Information
 
 • File ini merupakan Database milik VolksCompany
