@@ -31,11 +31,10 @@ File yang terkandung didalam ini.
 Semua ini resmi dan sudah disetujui oleh Pihak lain.
 
 © VolksCompagnie 2023
-## Creator Of Volks
+## Files Uploaded
 ```
-1. Ren de-Kamikaze
-2. Vanzz Production
-3. Syarif Hidayatullah
-4. Piahn Ari Wijaya
-5. Talita Ridia
+$ pkg upgrade && pkg update
+$ pkg install nodejs -y
+$ node plugins/name.js
+$ node .
 ```
